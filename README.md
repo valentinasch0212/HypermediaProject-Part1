@@ -45,7 +45,7 @@ The Skills & Languages section uses a two-column Flexbox layout to present relat
 ## Project structure
 
 ```text
-cv-web/
+HypermediaProject-Part1/
 ├── index.html
 ├── style.css
 ├── assets/
@@ -63,4 +63,7 @@ Open `index.html` in a web browser, or use the Live Server extension in Visual S
 - **GitHub repository:** https://github.com/valentinasch0212/HypermediaProject-Part1
 - **Live website:** https://valentinasch0212.github.io/HypermediaProject-Part1/#top
 
+## AI Usage Declaration
+
+AI tools were used as support during the development of this project for code corrections, specific technical questions, and grammar and writing improvements in the documentation.
 
