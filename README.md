@@ -60,7 +60,7 @@ Open `index.html` in a web browser, or use the Live Server extension in Visual S
 ## Project links
 
 - **Figma design:** https://www.figma.com/design/knP3ikM76ySNg6wk7nfnQ6/Sin-t%C3%ADtulo?node-id=0-1
-- **GitHub repository:** TODO — add the repository URL after publication.
+- **GitHub repository:** https://github.com/valentinasch0212/HypermediaProject-Part1
 - **Live website:** TODO — add the GitHub Pages URL after publication.
 
 
